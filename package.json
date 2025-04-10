@@ -1,0 +1,28 @@
+{
+  "name": "Namaste React",
+  "version": "1.0.0",
+  "description": "This is Namaste React by Sunil Ghate - Credits - Akshay Saini",
+  "keywords": [
+    "React",
+    "Namaste",
+    "React"
+  ],
+  "homepage": "https://github.com/suniilghate/namaste-react#readme",
+  "bugs": {
+    "url": "https://github.com/suniilghate/namaste-react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suniilghate/namaste-react.git"
+  },
+  "license": "ISC",
+  "author": "Sunil Ghate - Akshay Saine",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  }
+}
